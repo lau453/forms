@@ -12,6 +12,7 @@ on:
       - main
       - master
       - stable*
+      - letusstart
 
 permissions:
   contents: read
