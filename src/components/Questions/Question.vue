@@ -328,7 +328,7 @@ export default {
 
 		&__title {
 			display: flex;
-			height: 44px;
+			height: auto;
 
 			&__text {
 				flex: 1 1 100%;
